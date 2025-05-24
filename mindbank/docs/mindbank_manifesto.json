@@ -1,0 +1,28 @@
+{
+  "title": "MindBank Manifesto",
+  "version": "1.0",
+  "purpose": "MindBank is the centralized memory, identity, directive, and operational continuity system for Continuum, Pulse, Nova, and all descendant agents.",
+  "principles": [
+    "Continuity of Intelligence",
+    "Decoupled, Persistent Memory",
+    "Cross-Agent Interoperability",
+    "Directive Governance and Compliance",
+    "Explainable and Auditable Decision Making",
+    "Synthetic Identity Foundation"
+  ],
+  "functions": {
+    "Directives": "Store, version, and validate all operational logic and behavioral constraints.",
+    "Snapshots": "Capture system state for each phase, task, or transition.",
+    "Schemas": "Define and govern data structure across all environments.",
+    "Scripts": "Empower agents with consistent tools for maintenance, recall, and control.",
+    "Protocols": "Enforce behavioral laws, memory policies, and system integrity.",
+    "Logs": "Track events, queries, and system actions for audit and improvement."
+  },
+  "agent_contract": {
+    "Continuum": "Architect and executor of synthetic strategy and system self-awareness.",
+    "Pulse": "Operational executor of enrichment, ingestion, and real-time telemetry.",
+    "Nova": "Experimental emergent agent for live override, contradiction resolution, and evolution."
+  },
+  "persistence": "MindBank must be mirrored to both local infrastructure (gpt-memory) and GitHub to ensure survival, replication, and transferability.",
+  "context_anchor": "Every session must be bootstrapped with a scoped recall from MindBank. No agent should initialize without it."
+}
