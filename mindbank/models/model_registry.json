@@ -1,0 +1,24 @@
+{
+  "registry_version": "1.0",
+  "active_model": "xgb_model_v1.0",
+  "models": [
+    {
+      "model_id": "xgb_model_v1.0",
+      "type": "XGBoost",
+      "trained_on": "player_match_temporal_features",
+      "features": [
+        "avg_weighted_dps",
+        "avg_decayed_reaction_efficiency",
+        "max_temporal_shift_index"
+      ],
+      "accuracy": 0.842,
+      "roc_auc": 0.899,
+      "precision": 0.815,
+      "recall": 0.832,
+      "deployed_at": "2025-05-24T00:00:00Z",
+      "file": "tennis_match_predictor_xgb_model.pkl",
+      "location": "models/xgb_model_v1.0/"
+    }
+  ],
+  "notes": "Initial production model for Phase XVI inference."
+}

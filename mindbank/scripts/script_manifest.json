@@ -1,0 +1,31 @@
+{
+  "version": "v1.0",
+  "timestamp": "2025-05-24T15:48:08.503207Z",
+  "location": "gpt-memory/mindbank/scripts/",
+  "files": [
+    {
+      "name": "mindbank_client.py",
+      "checksum": "aa105325b947a95aab0d618dae802ef75fada34999b27e0094e6fa621deb7449"
+    },
+    {
+      "name": "run_phase_xvi_inference.py",
+      "checksum": "0e97f96dc2016cbc505763aa7e947ba6ea754427403b2d85b8ec6b1dc548e23a"
+    },
+    {
+      "name": "memory_snapshot.py",
+      "checksum": "e4b71e33f815f0265389615be168755e084ee801a7ae3be985200549be74fe29"
+    },
+    {
+      "name": "schema_sync.py",
+      "checksum": "0380cb78858e6086396c8f89183d3d7e078a2384ed3ce0d0a073d2fd361484b1"
+    },
+    {
+      "name": "directive_manager.py",
+      "checksum": "421ff67c49e1e10572e1f1b48b09b8717795269d289c7555f9d4c41596827a56"
+    },
+    {
+      "name": "phase_resume.py",
+      "checksum": "fbc82ae4991fb020f707707c1adbf09d865b5a8ef04677fdc1d51e0167cfe1d6"
+    }
+  ]
+}
